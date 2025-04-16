@@ -1,1 +1,1 @@
-# rs-typescript-module-2
+# rs-typescript-module-3
